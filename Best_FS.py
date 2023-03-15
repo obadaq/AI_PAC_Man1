@@ -52,3 +52,5 @@ def best_first_search(start):
 
 
 best_first_search((1, 2))
+
+
